@@ -1,0 +1,122 @@
+body {
+    background:lemonchiffon;
+    font-family: "Amatic SC";
+    background-image: url("https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+ol {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    font-family:"Quicksand";
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: right;
+}
+  
+a {
+    display: block;
+    padding: 8px;
+}
+
+ol {
+    background-color:#ffcdd2;
+}
+
+li a {
+    display: block;
+    color: #ffcdd2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.active {
+    display:block;
+}
+
+.div {
+    background-color: #f6e0b5;
+    width: 300px;
+    height: 600px;
+    border: 15px solid 	#eea990;
+    box-shadow: 1px 1px 1px grey;
+    padding: 60px;
+    margin-left:190px;
+    font-family:"Quicksand";
+    font-size:15px;
+    text-align:center;
+    display:inline-block;
+}
+
+img {
+    max-width: 100%;
+}
+
+.div2 {
+    background-color: #f6e0b5;
+    width: 300px;
+    height: 600px;
+    border: 15px solid 	#eea990;
+    box-shadow: 1px 1px 1px grey;
+    padding: 60px;
+    margin-left:10px;
+    font-family:"Quicksand";
+    font-size:15px;
+    text-align:center;
+    display:inline-block;
+}
+
+.title {
+    font-family:"AMATIC SC";
+    color:#ffcdd2;
+    font-weight: 100;
+    text-align:center;
+    font-size:75px;
+    margin-top:5px;
+    padding:0px;
+    text-shadow: 1px 2px 2px grey;
+}
+
+.title2 {
+    font-family:"AMATIC SC";
+    color:#ffcdd2;
+    font-weight: 100;
+    text-align:center;
+    font-size:70px;
+    margin-bottom:10px;
+    padding:0px;
+    text-shadow: 1px 2px 2px grey; 
+}
+
+.quote {
+    display:inline-block;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+}
+
+.quote {
+    background-color: #f6e0b5;
+    width: 300px;
+    height: 600px;
+    border: 15px solid 	#eea990;
+    box-shadow: 1px 1px 1px grey;
+    padding: 60px;
+    margin-left:10px;
+    font-family:"Quicksand";
+    font-size:15px;
+    text-align:center;
+    display:inline-block;
+}
+

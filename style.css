@@ -1,0 +1,53 @@
+body {
+    background:lemonchiffon;
+    font-family: "Amatic SC";
+    background-image: url("https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+    background-size: cover; 
+    background-position: center center center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.text {
+    text-align: center;
+    font-size: 75px;
+    color: #ffcdd2;
+    text-shadow: 2px 2px 1px grey;
+    margin: 0;
+    text-align:center;
+    display:block;
+}
+
+ol {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    font-family:"Quicksand";
+}
+
+li {
+    display: inline;
+}
+
+li {
+    float: right;
+}
+  
+a {
+    display: block;
+    padding: 8px;
+}
+
+ol {
+    background-color:#ffcdd2;
+}
+
+li a {
+    display: block;
+    color: #ffcdd2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px grey;
+}
+
